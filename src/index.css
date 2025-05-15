@@ -58,6 +58,7 @@ body{
 .default-link {
   color: white;
   text-decoration: none;
+  transform: scale(1.1);
 }
 
 .default-link:hover {
