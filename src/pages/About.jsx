@@ -5,7 +5,7 @@ export default function About() {
             <div className="card">
                 <h1 className="title">ABOUT ME</h1>
                 <div className="avatar">
-                    <img className="profile" src="/3.jpg" alt="img" />
+                    <img className="profile" src="/2.jpg" alt="img" />
                 </div>
                 <div>
                     <p className="aboutme">
