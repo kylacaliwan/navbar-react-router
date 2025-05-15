@@ -69,13 +69,15 @@ body{
 .active-link {
   color: #F564A9;
   font-weight: bold;
-  text-decoration: none;
+  text-decoration: none; 
+  transform: scale(1.1);
+
 }
 
 .active-link:hover {
   color: rgb(255, 163, 179);
   transform: scale(1.1);
-  transition: 0.2s ease-in-out;
+  transition: 0.2s linear;
 }
 
 /* Sidebar (right side) */
